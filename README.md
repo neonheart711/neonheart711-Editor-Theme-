@@ -1,4 +1,4 @@
-⚡ NeonHeart711 Theme for Acode
+# neonheart711 Theme for Acode ⚡
 
 ![Logo](https://raw.githubusercontent.com/neonheart711/neonheart711-Editor-Theme-/main/icon.jpg)
 
@@ -6,7 +6,7 @@ A clean Neon Hacker style theme for the Acode editor, designed for developers wh
 
 ---
 
-🧠 About
+# About 🧠
 
 NeonHeart711 Theme is a custom Ace Editor theme built for Acode.
 It focuses on:
@@ -18,7 +18,7 @@ It focuses on:
 
 ---
 
-📸 Preview
+# Preview 📸
 
 🔹 Editor View
 
@@ -30,7 +30,7 @@ It focuses on:
 
 ---
 
-🎨 Features
+# Features 🎨
 
 - Neon Green based UI (#00ff41)
 - Smooth syntax highlighting
@@ -40,7 +40,7 @@ It focuses on:
 
 ---
 
-⚙️ Installation
+# Installation ⚙️
 
 1. Open Acode
 2. Goto Plugin
@@ -52,16 +52,16 @@ Settings → Editor Theme → neonheart711 (Editor Theme)
 ---
 
 
-👤 Author
+# Author 👤
 
-NeonHeart711
+##neonheart711
 
-- GitHub: https://github.com/NeonHeart711
+- GitHub: https://github.com/neonjeart711
 - Passion: Cybersecurity ⚡ + Development 💻
 
 ---
 
-📜 License
+# License 📜
 
 MIT License
 
@@ -69,13 +69,13 @@ MIT License
 
 © Copyright
 
-© 2026 NeonHeart711
+## 2026 neonheart711
 
 This project is open-source but attribution is appreciated.
 
 ---
 
-⭐ Support
+# Support ⭐
 
 If you like this theme:
 
@@ -85,7 +85,7 @@ If you like this theme:
 
 ---
 
-🚀 Future Updates
+# Future Updates 🚀
 
 - Glow effects
 - More color variants
@@ -94,4 +94,4 @@ If you like this theme:
 
 ---
 
-🔥 Made with passion by NeonHeart711
+# Made with passion by NeonHeart711 🔥
